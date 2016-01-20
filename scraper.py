@@ -6,8 +6,8 @@
 print "hello"
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
-#
-# # Find something on the page using css selectors
+urltoscrape = "http://www.bbc.co.uk"
+print urltoscrape
 # root = lxml.html.fromstring(html)
 # root.cssselect("div[align='left']")
 #
