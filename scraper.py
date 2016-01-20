@@ -9,6 +9,8 @@ print "hello"
 urltoscrape = "http://www.bbc.co.uk"
 print urltoscrape
 myage = 36
+urltoscrape = urltoscrape+"p1"
+print urltoscrape
 # root.cssselect("div[align='left']")
 #
 # # Write out to the sqlite database using scraperwiki library
