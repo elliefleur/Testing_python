@@ -8,7 +8,7 @@ print "hello"
 # html = scraperwiki.scrape("http://foo.com")
 urltoscrape = "http://www.bbc.co.uk"
 print urltoscrape
-# root = lxml.html.fromstring(html)
+myage = 36
 # root.cssselect("div[align='left']")
 #
 # # Write out to the sqlite database using scraperwiki library
